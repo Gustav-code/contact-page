@@ -21,9 +21,9 @@ hola
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Repositorio en GitHub: https://gustav-code.github.io/contact-page/
+Deploy: https://gustav-code.github.io/contact-page/
 ---
 
-## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+## 📝 Moraleja
+No hay moraleja
